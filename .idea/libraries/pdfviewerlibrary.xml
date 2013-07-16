@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pdfviewerlibrary">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/pdfviewerlibrary.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
